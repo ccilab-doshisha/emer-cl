@@ -1,6 +1,6 @@
 # Embedding-based Music Emotion Recognition Using Composite Loss (EMER-CL)
 
-**This repository was originally published on https://mu-lab.info/naoki_takashima/emer-cl and has been transferred here because of the of the last author.**
+**This repository was originally published on https://mu-lab.info/naoki_takashima/emer-cl and has been transferred here because of the movement of the last author.**
 
 ## Build environment
 Please build the execution environment according to your own environment.
